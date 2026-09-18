@@ -1,0 +1,5 @@
+database.json
+database.json.bak
+database.json.tmp.*
+node_modules/
+*.log

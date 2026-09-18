@@ -1,0 +1,13 @@
+{
+  "name": "oranthia-backend",
+  "version": "1.0.0",
+  "description": "أترايثيا (Oranthia) — عالم الأساطير — خادم لعبة مستقل (Stateless) مع خرائط نصية وبوابة مستوى",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
